@@ -18,7 +18,12 @@ I work remotly and like to travel a lot.
   <img src="https://skillup.mk/assets/img/javascript-logo.png" width="40px"/>
 </code>
 
-#### And I know Next-js React-js MongoDb Immerjs Typescript Gatsby ..... 
+#### And I know Next-js React-js MongoDb Immerjs Typescript Gatsby Sass Redux .....
 
+<br/>
+
+- 📍 &nbsp; Current location: Tashkent , Uzbekistan.
+- 📜 &nbsp; Ask me about anything, I am Happy to help
+- 📲 &nbsp; How to me : <a hraf="tel:+998978784727">[@behruzbahtiyorov]</a>
 
 
