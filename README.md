@@ -5,7 +5,7 @@ I work remotly and like to travel a lot.
 
 <div>
   <div class="telgram-link">
-    <p>this is my telegramm accaunt</p>
+    <p>THIS IS MY TELEGRAMM ACCAUNT</p>
       <a href="https://t.me/MusLim_4727">
       <img src="https://papik.pro/uploads/posts/2022-01/1643603259_12-papik-pro-p-logotip-telegram-12.png" width="30px"/>
       </a>
