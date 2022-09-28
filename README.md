@@ -7,7 +7,7 @@ I work remotly and like to travel a lot.
   <div class="telgram-link">
     <p>this is my telegramm accaunt</p>
       <a href="https://t.me/MusLim_4727">
-      <img src="[https://avatanplus.com/files/resources/mid/57aa2addd6fb115670b772b9.png](https://papik.pro/uploads/posts/2022-01/1643603259_12-papik-pro-p-logotip-            telegram-   12.png)" width="30px"/>
+      <img src="https://papik.pro/uploads/posts/2022-01/1643603259_12-papik-pro-p-logotip-telegram-12.png" width="30px"/>
       </a>
   </div>
 </div>
