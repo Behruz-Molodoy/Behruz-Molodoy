@@ -4,7 +4,7 @@ This is my github account. I am a frontend developer. Here I mostly post very in
 I work remotly and like to travel a lot.
 
 <a href="https://t.me/MusLim_4727">
-  <img src="https://avatanplus.com/files/resources/mid/57aa2addd6fb115670b772b9.png"/>
+  <img src="https://avatanplus.com/files/resources/mid/57aa2addd6fb115670b772b9.png" width="30px"/>
 </a>
 
 
