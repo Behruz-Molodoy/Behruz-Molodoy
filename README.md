@@ -18,7 +18,7 @@ I work remotly and like to travel a lot.
   <img src="https://skillup.mk/assets/img/javascript-logo.png" width="40px"/>
 </code>
 
-#### And I know Next-js React-js MongoDb Immerjs Typescript Gotsby ..... 
+#### And I know Next-js React-js MongoDb Immerjs Typescript Gatsby ..... 
 
 
 
