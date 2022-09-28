@@ -15,7 +15,7 @@ I work remotly and like to travel a lot.
 ### Languages and tools I work width:
 
 <code>
-  <img src="https://skillup.mk/assets/img/javascript-logo.png"/>
+  <img src="https://skillup.mk/assets/img/javascript-logo.png" width="40px"/>
 </code>
 
 
