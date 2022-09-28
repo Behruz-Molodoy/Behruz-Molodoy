@@ -1,10 +1,4 @@
-- 👋 Hi, I’m @Behruz-Molodoy
-- 👀 I’m interested in Front-end
-- 🌱 I’m currently learning React js
-- 💞️ I’m looking to collaborate on Front-end Developer
-- 📫 How to reach me +998 97 878 47 27 telegramm
+### Hi , I'm Behruz Bahtiyorov Bahtiyorovich <img src="https://media3.giphy.com/media/w1OBpBd7kJqHrJnJ13/giphy.gif?cid=ecf05e47d8ced7x2jwjel9sebv6tud78y2k9aovd8dsu5jan&rid=giphy.gif&ct=s" width="30px" height="30px"/>
 
-<!---
-Behruz-Molodoy/Behruz-Molodoy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+
