@@ -17,15 +17,8 @@ I work remotly and like to travel a lot.
 <code>
   <img src="https://skillup.mk/assets/img/javascript-logo.png" width="40px"/>
 </code>
-<code>
-  <img src="https://dadayazilim.com/next.png" width="40px"/>
-</code>
-<code>
-  <img src="https://skillup.mk/assets/img/javascript-logo.png" width="40px"/>
-</code>
-<code>
-  <img src="https://skillup.mk/assets/img/javascript-logo.png" width="40px"/>
-</code>
+
+# And I know Next-js React-js MongoDb Immerjs Typescript Gotsby ..... 
 
 
 
