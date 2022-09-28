@@ -18,7 +18,7 @@ I work remotly and like to travel a lot.
   <img src="https://skillup.mk/assets/img/javascript-logo.png" width="40px"/>
 </code>
 <code>
-  <img src="https://flyclipart.com/thumb2/reactjs-developer-221732.png" width="40px"/>
+  <img src="https://dadayazilim.com/next.png" width="40px"/>
 </code>
 <code>
   <img src="https://skillup.mk/assets/img/javascript-logo.png" width="40px"/>
