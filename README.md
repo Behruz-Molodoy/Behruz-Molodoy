@@ -12,6 +12,11 @@ I work remotly and like to travel a lot.
   </div>
 </div>
 
+### Languages and tools I work width:
+
+<code>
+  <img src="https://skillup.mk/assets/img/javascript-logo.png"/>
+</code>
 
 
 
