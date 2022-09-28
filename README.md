@@ -24,6 +24,6 @@ I work remotly and like to travel a lot.
 
 - 📍 &nbsp; Current location: Tashkent , Uzbekistan.
 - 📜 &nbsp; Ask me about anything, I am Happy to help
-- 📲 &nbsp; How to me : <code><a hraf="tel:+998978784727">[@behruzbahtiyorov]</a></code>
+- 📲 &nbsp; How to me : <code>+998978784727"</code>
 
 
