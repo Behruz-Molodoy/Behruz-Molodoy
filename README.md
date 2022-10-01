@@ -15,7 +15,7 @@ I work remotly and like to travel a lot.
 ### Languages and tools I work width:
 
 <code>
-  <img src="https://skillup.mk/assets/img/javascript-logo.png" width="40px"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/2000px-Unofficial_JavaScript_logo_2.svg.png" width="40px"/>
   <img src="https://static.codedojo.ru/assets/images/topics/typescript.png" width="40px"/>
   <img src="https://go.imgsmail.ru/imgpreview?key=11032089c68c599f&mb=imgdb_preview_exp" width="57px" alt="BEM MOTOLOGY"/>
   <img src="https://miro.medium.com/max/1400/1*LvA59wJi3O9jTMQQsw_cRA.png" width="43px" alt="NEXT JS"/>
