@@ -18,7 +18,7 @@ I work remotly and like to travel a lot.
   <img src="https://skillup.mk/assets/img/javascript-logo.png" width="40px"/>
   <img src="https://static.codedojo.ru/assets/images/topics/typescript.png" width="40px"/>
   <img src="https://go.imgsmail.ru/imgpreview?key=11032089c68c599f&mb=imgdb_preview_exp" width="57px" alt="BEM MOTOLOGY"/>
-  <img src="https://miro.medium.com/max/1400/1*LvA59wJi3O9jTMQQsw_cRA.png" width="40px" alt="NEXT JS"/>
+  <img src="https://miro.medium.com/max/1400/1*LvA59wJi3O9jTMQQsw_cRA.png" width="43px" alt="NEXT JS"/>
 </code>
 
 #### And I know Next-js React-js MongoDb Immerjs Typescript Gatsby Sass Redux .....
