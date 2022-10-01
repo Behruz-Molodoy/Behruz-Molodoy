@@ -21,7 +21,7 @@ I work remotly and like to travel a lot.
   <img src="https://static.codedojo.ru/assets/images/topics/typescript.png" width="40px"/>
 </code>
 <code>
-  <img                  src="https://camo.githubusercontent.com/161ccc854b9158377eaae04a1a68b3b87556b04dec30a7de99798158910e44a8/68747470733a2f2f616368696576656d656e742d696d616765732e7465616       d74726565686f7573652e636f6d2f6261646765735f6373735f6d6f64756c6172736173735f737461676530322e706e67" width="40px" alt="BEM MOTOLOGY"/>
+  <img src="https://go.imgsmail.ru/imgpreview?key=11032089c68c599f&mb=imgdb_preview_exp" width="40px" alt="BEM MOTOLOGY"/>
 </code>
 
 #### And I know Next-js React-js MongoDb Immerjs Typescript Gatsby Sass Redux .....
